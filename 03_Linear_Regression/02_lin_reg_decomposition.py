@@ -3,7 +3,8 @@
 """ 
 @author:yaoli 
 @file: 02_lin_reg_decomposition.py 
-@time: 2018/12/27 
+@time: 2018/12/27
+使用 Cholesky 分解求线性回归
 """
 
 import matplotlib.pyplot as plt
